@@ -18,8 +18,8 @@ MonoBehaviour:
   optimizeBufferDiscards: 0
   useAppSW: 0
   stereoRenderingMode: 3
-  outerPassRenderScale: 1
-  innerPassRenderScale: 0.9
+  outerPassRenderScale: 1.2
+  innerPassRenderScale: 1
   OSSplashScreen: {fileID: 0}
   passthroughProvider: 0
   autoResolve: 1

@@ -16,6 +16,7 @@
     "com.unity.timeline": "1.8.7",
     "com.unity.ugui": "2.0.0",
     "com.unity.visualeffectgraph": "17.0.4",
+    "com.unity.xr.openxr": "1.14.3",
     "com.yvr.core": "https://github.com/PlayForDreamDevelopers/com.yvr.core-mirror.git?path=/com.yvr.core#version_1.26.5",
     "com.yvr.utilities": "https://github.com/PlayForDreamDevelopers/com.yvr.utilities-mirror.git?path=/com.yvr.utilities#version_0.15.12",
     "com.unity.modules.accessibility": "1.0.0",
