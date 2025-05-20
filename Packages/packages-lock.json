@@ -133,6 +133,13 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+    "com.unity.nuget.newtonsoft-json": {
+      "version": "3.2.1",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
     "com.unity.profiling.core": {
       "version": "1.0.2",
       "depth": 1,
@@ -277,6 +284,47 @@
         "com.unity.shadergraph": "17.0.4",
         "com.unity.render-pipelines.core": "17.0.4"
       }
+    },
+    "com.unity.xr.legacyinputhelpers": {
+      "version": "2.1.12",
+      "depth": 2,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.modules.vr": "1.0.0",
+        "com.unity.modules.xr": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.xr.management": {
+      "version": "4.5.0",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.modules.vr": "1.0.0",
+        "com.unity.modules.xr": "1.0.0",
+        "com.unity.modules.subsystems": "1.0.0",
+        "com.unity.xr.legacyinputhelpers": "2.1.7"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.yvr.core": {
+      "version": "https://github.com/PlayForDreamDevelopers/com.yvr.core-mirror.git?path=/com.yvr.core#version_1.26.5",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.yvr.utilities": "0.15.10",
+        "com.unity.xr.management": "3.0.4"
+      },
+      "hash": "da7f3718f357e8a70df3fb49c38e26ddc3f14a04"
+    },
+    "com.yvr.utilities": {
+      "version": "https://github.com/PlayForDreamDevelopers/com.yvr.utilities-mirror.git?path=/com.yvr.utilities#version_0.15.12",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.nuget.newtonsoft-json": "3.2.1"
+      },
+      "hash": "7a53095f37af3bb96c8d64af7a7d41711113282e"
     },
     "com.unity.modules.accessibility": {
       "version": "1.0.0",
