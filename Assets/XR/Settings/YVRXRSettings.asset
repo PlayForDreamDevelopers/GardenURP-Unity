@@ -17,9 +17,9 @@ MonoBehaviour:
   useVRWidget: 0
   optimizeBufferDiscards: 0
   useAppSW: 0
-  stereoRenderingMode: 2
+  stereoRenderingMode: 3
   outerPassRenderScale: 1
-  innerPassRenderScale: 1
+  innerPassRenderScale: 0.9
   OSSplashScreen: {fileID: 0}
   passthroughProvider: 0
   autoResolve: 1
@@ -27,8 +27,8 @@ MonoBehaviour:
   extraRenderPassDepth: -1
   outerExtraPassRenderScale: 1
   innerExtraPassRenderScale: 1
-  isP3: 0
-  require6Dof: 1
+  isP3: 1
+  require6Dof: 0
   handTrackingSupport: 0
   eyeTrackingSupport: 0
   requireSpatialAnchor: 0

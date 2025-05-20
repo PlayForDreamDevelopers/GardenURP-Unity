@@ -135,6 +135,7 @@ Material:
     - _Glossiness: 0
     - _GlossyReflections: 0
     - _Metallic: 0
+    - _NormalStrength: 1
     - _OcclusionStrength: 1
     - _Parallax: 0.005
     - _QueueControl: 0
@@ -148,7 +149,7 @@ Material:
     - _SrcBlend: 1
     - _SrcBlendAlpha: 1
     - _Surface: 0
-    - _Vertex_Color_AO: 1
+    - _Vertex_Color_AO: 0.713
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
