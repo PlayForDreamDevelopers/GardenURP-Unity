@@ -7,7 +7,7 @@
     <img src="https://www.pfdm.cn/en/static/img/logo.2b1b07e.png" alt="Logo" width="20%">
   </a>
 
-  <h1 align="center"> Garden URP 示例 </h1>
+  <h1 align="center"> Garden URP 展示 </h1>
 
   <p align="center">
     适配 Unity 官方的 URP Template 中的 Garden 场景的至 Play For Dream MR设 设备。

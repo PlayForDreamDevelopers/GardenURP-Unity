@@ -6,7 +6,7 @@
     <a href="https://github.com/PlayForDreamDevelopers/GardenURP-Unity">
         <img src="https://www.pfdm.cn/en/static/img/logo.2b1b07e.png" alt="Logo" width="20%">
     </a>
-    <h1 align="center"> Garden URP Sample </h1>
+    <h1 align="center"> Garden URP Showcase </h1>
     <p align="center">
         Adaptation of Unity's official URP Template Garden scene for Play For Dream MR devices.
         <br />
