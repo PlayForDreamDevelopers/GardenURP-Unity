@@ -24,6 +24,8 @@
 
 ## About the Project
 
+https://github.com/user-attachments/assets/648b7339-fff3-42e7-8a0e-6919161accfc
+
 This project is based on the Garden scene from Unity's official URP Template, with effect adjustments and performance optimizations for Play For Dream MR devices. You can experience the performance boost and clarity improvement brought by Quad Views foveated rendering in this project.
 
 Compared to Unity's original Guardian and `Mobile-Low` URP settings, the following main modifications have been made:
